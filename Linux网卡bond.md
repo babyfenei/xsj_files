@@ -8,6 +8,10 @@ grammar_cjkRuby: true
 ###首先介绍下网卡bond的几种模式
 ##### Linux 多网卡绑定
 
+
+----------
+
+
 网卡绑定mode共有七种(0~6) bond0、bond1、bond2、bond3、bond4、bond5、bond6
 
 常用的有三种
