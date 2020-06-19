@@ -34,7 +34,6 @@ grammar_align: true
 grammar_tableExtra: true
 --- 
 
-[toc]
 
 #### 1. 连接后台
 连接服务器显示器，进入后台操作
